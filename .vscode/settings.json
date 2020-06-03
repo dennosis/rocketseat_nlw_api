@@ -1,0 +1,13 @@
+{
+    "vsintellicode.features.python.deepLearning": "enabled",
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "typescript.disableAutomaticTypeAcquisition": true,
+    "node-module-intellisense.autoStripExtensions": [
+
+        ".js",
+        ".jsx",
+        ".ts",
+        ".d.ts",
+        ".tsx"
+    ]
+}
